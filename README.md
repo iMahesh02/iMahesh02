@@ -19,7 +19,7 @@ I'm a **Full Stack Developer** specializing in **Software Security Applications*
 ## 💼 Certifications
 - ✅ **AWS Certified Cloud Practitioner**
 - ✅ **GCP Certified Associate Cloud Engineer**
-- ✅ (Add more if applicable)
+- ✅ **Microsoft Azure Certified Data Engineer - DP-203**
 
 ## 📫 Connect With Me
 - 🔗 **[LinkedIn](https://www.linkedin.com/in/mahesh-warghane-941914169/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3Bt9V0PyL7QjG3b7MiKNmvFQ%3D%3D)**

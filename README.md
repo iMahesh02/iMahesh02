@@ -24,7 +24,6 @@ I'm a **Full Stack Developer** specializing in **Software Security Applications*
 ## 📫 Connect With Me
 - 🔗 **[LinkedIn](https://www.linkedin.com/in/mahesh-warghane-941914169/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3Bt9V0PyL7QjG3b7MiKNmvFQ%3D%3D)**
 - 📧 **[Email](maheshwarghane147@gmail.com).**
-- 🌐 **[Portfolio](your-portfolio-url)** *(if applicable)*
 
 ## 🛠️ Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -33,9 +32,6 @@ I'm a **Full Stack Developer** specializing in **Software Security Applications*
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Keycloak](https://img.shields.io/badge/Keycloak-000000?style=for-the-badge&logo=keycloak&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
 
 ---
 ⭐ **Looking for exciting projects to collaborate on? Feel free to reach out!**
